@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://chijiudyipi.github.io/sitemap.xml
